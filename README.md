@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **own idea**
 
-- 🌱 I’m currently learning **DSA with js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sirazkhan0](https://github.com/sirazkhan0)
 
 - 📫 How to reach me **mdsirazhussain@gmail.com**
