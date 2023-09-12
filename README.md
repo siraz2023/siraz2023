@@ -38,19 +38,7 @@
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea)
 
-<hr>
 
-## 📊Github Stats
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirazkhan0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" align="left"/>
-</div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=sirazkhan0&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="52%" align="right"/>
-</div>
-
-<div align="center" width="65%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sirazkhan0&theme=radical&hide_border=false" alt="">
-</div>
 
 
